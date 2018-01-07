@@ -8,8 +8,9 @@ return array
 
 function johnLennonFacts(array) {
   var i=0
+  var newArray = []
 while (i<array.length){
-    array[i]=array[i] + "!!!"
+    newArray.push(array[i] +"!!!")
     i++
 }
 return array
@@ -23,14 +24,4 @@ function iLoveTheBeatles(n) {
   } while (n<15)
   
   return array
-}
-
-function johnLennonFacts(array) {
-  var i=0
-  var newArray = []
-while (i<array.length){
-    newArray.push(array[i] +"!!!")
-    i++
-}
-return array
 }
