@@ -13,7 +13,7 @@ while (i<array.length){
     newArray.push(array[i] +"!!!")
     i++
 }
-return array
+return newArray
 }
 
 function iLoveTheBeatles(n) {
