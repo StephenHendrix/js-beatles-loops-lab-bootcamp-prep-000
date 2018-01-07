@@ -14,3 +14,10 @@ while (i<array.length){
 }
 return array
 }
+
+function iLoveTheBeatles(n) {
+  var array = []
+  do {
+    
+  }
+}
