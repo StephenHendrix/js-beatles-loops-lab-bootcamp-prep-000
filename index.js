@@ -16,6 +16,15 @@ while (i<array.length){
 return newArray
 }
 
+function johnLennonFacts(array) {
+  var i=0
+while (i<array.length){
+    array[i]=array[i] + "!!!"
+    i++
+}
+return array
+}
+
 function iLoveTheBeatles(n) {
   var array = []
   do 
