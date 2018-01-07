@@ -24,3 +24,13 @@ function iLoveTheBeatles(n) {
   
   return array
 }
+
+function johnLennonFacts(array) {
+  var i=0
+  var newArray = []
+while (i<array.length){
+    newArray.push(array[i] +"!!!")
+    i++
+}
+return array
+}
