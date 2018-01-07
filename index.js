@@ -16,7 +16,7 @@ return array
 }
 
 function iLoveTheBeatles(n) {
-  var array = 
+  var array = []
   n++
   do 
   {array.push("I love the Beatles!")
