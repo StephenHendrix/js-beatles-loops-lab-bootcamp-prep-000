@@ -17,7 +17,7 @@ return array
 
 function iLoveTheBeatles(n) {
   var array = []
-  do {
+  do {array.push
     
   }
 }
